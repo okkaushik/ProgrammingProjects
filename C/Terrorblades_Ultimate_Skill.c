@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
-//Terrablade's Ultimate Skill by 62070504030//
 
 //define variables//
 //Terrorblade's position//
